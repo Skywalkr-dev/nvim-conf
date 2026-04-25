@@ -1,0 +1,50 @@
+local M = {}
+
+M.base_30 = {
+  white = "#d1ddd2",
+  darker_black = "#050805",
+  black = "#070a07",
+  black2 = "#0a0e0a",
+  one_bg = "#1a1f1a",
+  one_bg2 = "#2a3630",
+  one_bg3 = "#3a453f",
+  grey = "#4e6e61",
+  grey_fg = "#5e8174",
+  line = "#2a3630",
+  statusline_bg = "#070a07",
+  light_grey = "#8fa39a",
+  red = "#a64343",
+  baby_pink = "#ff5555",
+  pink = "#ff3e3e",
+  line_numbers = "#3a453f",
+  purple = "#7fd9b6",
+  cyan = "#7fd9b6",
+  nord_blue = "#4d6b6d",
+  sun = "#e0e58c",
+  violet = "#cc00ff",
+  teal = "#7fd9b6",
+  orange = "#e0e58c",
+  blue = "#4d6b6d",
+  green = "#7fd9b6",
+}
+
+M.base_16 = {
+  base00 = "#050805",
+  base01 = "#1a1f1a",
+  base02 = "#2a3630",
+  base03 = "#3a453f",
+  base04 = "#4e6e61",
+  base05 = "#d1ddd2",
+  base06 = "#8fa39a",
+  base07 = "#ffffff",
+  base08 = "#a64343",
+  base09 = "#e0e58c",
+  base0A = "#8a8e51",
+  base0B = "#7fd9b6",
+  base0C = "#4d6b6d",
+  base0D = "#4e6e61",
+  base0E = "#cc00ff",
+  base0F = "#ff5555",
+}
+
+return M
